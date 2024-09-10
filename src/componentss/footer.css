@@ -1,0 +1,6 @@
+.footerclass{
+    height: 10vh;
+    background-image: url(../assets/Footer.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

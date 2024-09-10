@@ -1,0 +1,6 @@
+.catagoriesTab{
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-image: url(../assets/catag.png);
+    background-size: cover;
+}
